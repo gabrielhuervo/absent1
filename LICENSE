@@ -1,0 +1,87 @@
+THE ABSENT LICENSE
+Version 1.0 — Proprietary, All Rights Reserved
+
+Copyright (c) 2026 UnblockableMan ("the Owner"). All rights reserved.
+
+"ABSENT" (the "Software") — including but not limited to its source code,
+HTML/CSS/JavaScript, branding, the dagger (†) mark, the ABSENT name, artwork,
+themes, build scripts, and this repository's contents — is the exclusive
+property of the Owner and is protected by copyright and trademark law.
+
+
+1. WHAT YOU MAY DO (LIMITED GRANT)
+----------------------------------
+Subject to full compliance with every term below, you may:
+
+  a) VIEW the source code of this repository for personal, educational
+     or auditing purposes.
+  b) RUN an UNMODIFIED copy of the Software privately (self-host it for
+     yourself) as long as no fee, ad revenue, or other consideration is
+     charged for access to it.
+  c) LINK to the project or mention it (attribution with a link is welcome).
+
+
+2. WHAT YOU MAY NEVER DO (WITHOUT PRIOR WRITTEN PERMISSION)
+------------------------------------------------------------
+Without the Owner's prior written permission, obtained personally, you may
+NOT do any of the following:
+
+  a) COPY, copy-paste, reproduce, or extract ANY portion of the Software's
+     code, markup, styles, scripts, assets, or configuration into another
+     project, product, or website.
+  b) ALTER, modify, adapt, translate, patch, or create derivative works of
+     the Software, in whole or in part.
+  c) REBRAND, rename, re-theme, re-logo, or re-skin the Software, or
+     present any part of it under another name or identity.
+  d) REDISTRIBUTE, re-upload, mirror, re-host publicly, publish, sublicense,
+     sell, rent, or bundle the Software or any modified version of it.
+  e) REMOVE, obscure, or replace any copyright, credit, license, or
+     attribution notice contained in the Software.
+  f) CLAIM authorship or ownership of the Software, or imply the Owner
+     endorses your project.
+  g) Use the Software (or any part of it) commercially, or serve it behind
+     ads, paywalls, or monetized redirects.
+
+Any act listed above that is done WITHOUT the Owner's prior written
+permission is strictly prohibited and constitutes an infringement of the
+Owner's rights.
+
+
+3. ENFORCEMENT
+--------------
+Unauthorized copying, alteration, redistribution, or re-uploading of ABSENT
+will be met with takedown requests (GitHub DMCA and host abuse reports where
+applicable). The Owner reserves every right and remedy available under
+applicable law, and reserves the right to revoke the limited grant in
+Section 1 at any time, for any reason, without notice.
+
+
+4. PERMISSION
+-------------
+Want to fork, modify, translate, or build on ABSENT? Ask first — permission
+is often granted to honest people who simply reach out.
+
+  TikTok : @absent.prxy
+  GitHub : github.com/UnblockableMan
+
+
+5. NO WARRANTY
+--------------
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+OWNER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR ITS USE.
+
+
+6. THIRD-PARTY NOTICE
+---------------------
+Portions of this Software are based on DayDream X, originally licensed under
+the GNU Affero General Public License v3.0. Those portions remain governed by
+AGPL-3.0 and their respective licenses; all credit to their original authors.
+Everything else in this repository is licensed under The ABSENT License above.
+Use of the following open-source components retains their own licenses:
+Scramjet, Wisp / Epoxy Transport, bare-mux.
+
+Use responsibly and in line with your school or workplace policies.
